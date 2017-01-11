@@ -36,3 +36,5 @@ CREAD <- function(path, shortDescription){
 }
 
 CREAD("./")
+
+print("huhu")
