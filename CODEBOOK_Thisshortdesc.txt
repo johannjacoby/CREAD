@@ -1,0 +1,12 @@
+VAR1
+The label of Variable 1
+"The wording"
+{1;2;3;4;5}
+{-999}
+1 "lowest"
+2 ""
+3 ""
+4 ""
+5 "highest"
+-999 "missing value"
+$3
